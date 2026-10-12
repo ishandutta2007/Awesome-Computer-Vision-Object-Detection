@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Object-Detection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Object-Detection?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Object-Detection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Object-Detection?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Object-Detection/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Vision-Object-Detection?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Object-Detection/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Computer-Vision-Object-Detection?color=green" alt="Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Object-Detection/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
@@ -73,7 +73,7 @@ The table below provides a comprehensive comparison of hosted computer vision an
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of the top open-source repositories for model training, inference engines, dataset management, and annotation. Each project includes a real-time GitHub stargazer badge linking to its stargazers page. Sorted by **GitHub Stars descending**.
+Curated list of the top open-source repositories for model training, inference engines, dataset management, and annotation. Each project includes a real-time GitHub stargazer badge linking to its stargazers page. Sorted by **GitHub_Stars descending**.
 
 1. **[OpenCV](https://github.com/opencv/opencv)** [![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social&color=white)](https://github.com/opencv/opencv/stargazers)  
    The industry-standard open-source computer vision library (Apache-2.0). Features the highly optimized DNN module supporting real-time inference for YOLO, MobileNet-SSD, and Faster R-CNN on CPU, CUDA, and OpenVINO backends.
@@ -194,9 +194,18 @@ Thank you to all community contributors, researchers, and maintainers! 🙌
 
 - This list is **community-curated** for educational, engineering, and architectural reference — inclusion does not constitute commercial endorsement.
 - Ensure that computer vision, facial recognition, and surveillance deployments strictly adhere to relevant data protection, consent, and privacy regulations (GDPR, CCPA, BIPA).
-- Cloud pricing figures and star counters reflect verified metrics as of early 2026 and are subject to vendor updates.
+- Cloud pricing figures and Stars_Counters reflect verified metrics as of early 2026 and are subject to vendor updates.
 
 ---
 
 ##  Star History
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Computer-Vision-Object-Detection&type=dat&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Computer-Vision-Object-Detection&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Computer-Vision-Object-Detection&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Computer-Vision-Object-Detection_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Computer-Vision-Object-Detection_growth.svg">
+  </picture>
+</a>
