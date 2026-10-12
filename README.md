@@ -243,3 +243,12 @@ Star the repo if you find it useful!
 **Made for ML engineers, data scientists, researchers, and developers building transparent computer vision solutions.**  
 
 Let's make object detection more open, data-driven, and accessible.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Computer-Vision-Object-Detection&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Computer-Vision-Object-Detection_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Computer-Vision-Object-Detection_growth.svg">
+  </picture>
+</a>
